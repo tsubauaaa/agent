@@ -1,0 +1,16 @@
+time="2016-07-05T17:33:49+09:00" level=info msg="Starting Server agent...." version=0.1.0 
+time="2016-07-05T17:33:49+09:00" level=debug msg="Final config." config={API_KEY_HERE END_POINT_HERE} 
+time="2016-07-05T17:33:49+09:00" level=info msg="Initializing SQS client." 
+time="2016-07-05T17:33:49+09:00" level=debug msg="Polling SQS queue for messages." 
+time="2016-07-05T17:34:10+09:00" level=debug msg="Received messages." count=0 
+time="2016-07-05T17:34:10+09:00" level=debug msg="Polling SQS queue for messages." 
+time="2016-07-05T17:34:31+09:00" level=debug msg="Received messages." count=0 
+time="2016-07-05T17:34:31+09:00" level=debug msg="Polling SQS queue for messages." 
+time="2016-07-05T17:34:38+09:00" level=debug msg="Received messages." count=1 
+time="2016-07-05T17:34:38+09:00" level=debug msg="Received a message for me. Checking message integrity." 
+time="2016-07-05T17:34:38+09:00" level=debug msg="Pushing the message for processing." eventID=123456789 
+time="2016-07-05T17:34:38+09:00" level=debug msg="Polling SQS queue for messages." 
+time="2016-07-05T17:34:52+09:00" level=debug msg="Received messages." count=1 
+time="2016-07-05T17:34:52+09:00" level=debug msg="Received a message for me. Checking message integrity." 
+time="2016-07-05T17:34:52+09:00" level=debug msg="Pushing the message for processing." eventID=123456789 
+time="2016-07-05T17:34:52+09:00" level=debug msg="Polling SQS queue for messages." 

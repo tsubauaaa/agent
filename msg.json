@@ -1,0 +1,18 @@
+{
+  "timestamp": 1234567890123,
+  "source": "source",
+  "hostname": "macbookpro",
+  "action_type": "script",
+  "eventid": "123456789",
+  "agentid": "123456789",
+  "ruleid": "123456789",
+  "inflight_actionid": "123456789",
+  "runbook_name": "stop_nginx",
+  "raw_command": "service nginx stop",
+  "signature": "signature",
+  "timeout": 10,
+  "github_filepath": "tsubauaaa/server-scripts",
+  "env": {
+    "env1": "env1"
+  }
+}

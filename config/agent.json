@@ -1,0 +1,11 @@
+{
+ "Server" : {
+    "ApiKey": "API_KEY_HERE",
+    "Endpoint": "END_POINT_HERE"
+ },
+ "Agent" : {
+   "AssignedHostname":"",
+   "LogFile":"agent.log",
+   "DebugMode":true
+ }
+}
